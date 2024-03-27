@@ -1,0 +1,109 @@
+.item-detail-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .item-detail-container img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 20px;
+  }
+  
+  .item-detail-container h1 {
+    font-size: 24px;
+  }
+  
+  .item-detail-container p {
+    font-size: 18px;
+  }
+  
+  .item-detail-container button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .item-detail-container button:hover {
+    background-color: #45a049;
+  }
+
+
+  .item-detail-container {
+  /* Estilos para el contenedor del detalle del ítem */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.item-detail-container img {
+  max-width: 300px;
+  max-height: 300px;
+  margin-bottom: 20px;
+}
+
+.item-detail-container h1 {
+  font-size: 24px;
+}
+
+.item-detail-container p {
+  font-size: 18px;
+}
+
+.item-detail-container button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.item-detail-container button:hover {
+  background-color: #45a049;
+}
+
+
+/* ------------------------  */
+.item-detail-container {
+    /* Estilos para el contenedor del detalle del ítem */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  .item-detail-container img {
+    max-width: 300px;
+    max-height: 300px;
+    margin-bottom: 20px;
+  }
+  
+  .item-detail-container h1 {
+    font-size: 24px;
+  }
+  
+  .item-detail-container p {
+    font-size: 18px;
+  }
+  
+  .item-detail-container button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .item-detail-container button:hover {
+    background-color: #45a049;
+  }

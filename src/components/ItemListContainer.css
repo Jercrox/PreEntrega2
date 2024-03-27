@@ -1,0 +1,50 @@
+.item-list-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+  }
+  
+  .categorias {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .categorias h1 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .categorias ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .categorias ul li {
+    margin-bottom: 5px;
+  }
+  
+  .productos {
+    flex: 2;
+  }
+  
+  .producto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .producto img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .producto h2 {
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+  .producto p {
+    margin-bottom: 5px;
+  }
+  
